@@ -6,12 +6,13 @@
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configuration">Configuração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-developing">Construir e Executar</a>
+  <a href="#-developing">Construir e Executar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <img alt="Licença" src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=8257E5&labelColor=000000">
+	<a href="https://www.udemy.com/course/testes-automatizados-na-pratica-com-spring-boot/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Curso na Udemy&message=Testes automatizados na prática com Spring Boot&color=8257E5&labelColor=000000" alt="Testes automatizados na prática com Spring Boot" />
+	</a>
 </p>
 
 <br>
@@ -34,7 +35,8 @@
 
 sw-planet-api é um serviço web que provê dados sobre a franquia de Star Wars, mais especificamente sobre os planetas que aparecem nos filmes.
 
-Esse projeto foi elaborado durante o curso [Testes automatizados na prática com Spring Boot](https://www.udemy.com/course/testes-automatizados-na-pratica-com-spring-boot/?referralCode=7F6C5AA14AE558497FE0), em que o foco foi a criação de testes automatizados.
+Esse projeto foi elaborado durante o curso [Testes automatizados na prática com Spring Boot](https://www.udemy.com/course/testes-automatizados-na-pratica-com-spring-boot/), em que o foco foram os
+fundamentos de testes unitários, testes de integração e testes de API, utilizando o framework Spring Boot e suas ferramentas.
 
 ## 🛠️ Configuração
 
